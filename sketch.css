@@ -1,0 +1,17 @@
+body{
+text-align:center;
+font-size: 20px;
+background-image:url("https://t3.ftcdn.net/jpg/03/09/27/06/360_F_309270653_AnwHxTttPuPQn0a7SP6waT1IpXzJfqyg.jpg");
+}
+
+#btn1,#btn2{
+width: 100px;
+height:40px;
+font-size: 20px;
+}
+
+canvas{
+border-width: 10px;
+background-color: aliceblue;
+border-style: ridge;
+}
